@@ -153,7 +153,7 @@ Bu bölümde programın çalışmasına ait ekran görüntüleri yer almaktadır
 
 ## Ana Menü
 
-![Ana Menü](C%20Oyun%20Satis%20Otomasyonu/screenshots/AnaMenü.png)
+![Ana Menu](C%20Oyun%20Satis%20Otomasyonu/screenshots/AnaMenu.png)
 
 ## Kullanıcı Girişi
 
