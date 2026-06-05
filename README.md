@@ -153,39 +153,40 @@ Bu bölümde programın çalışmasına ait ekran görüntüleri yer almaktadır
 
 ## Ana Menü
 
-![Ana Menü](screenshots/AnaMenü.png)
+![Ana Menü](C%20Oyun%20Satis%20Otomasyonu/screenshots/AnaMenü.png)
 
 ## Kullanıcı Girişi
 
-![Kullanıcı Girişi](screenshots/giris1.png)
+![Kullanıcı Girişi](C%20Oyun%20Satis%20Otomasyonu/screenshots/giris1.png)
 
-![Kullanıcı Girişi](screenshots/giris2.png)
+![Kullanıcı Girişi](C%20Oyun%20Satis%20Otomasyonu/screenshots/giris2.png)
 
 ## Kullanıcı Kayıt Ekranı
 
-![Kayıt](screenshots/kayit.png)
+![Kayıt](C%20Oyun%20Satis%20Otomasyonu/screenshots/kayit.png)
 
-![Kayıt](screenshots/kayit2.png)
+![Kayıt](C%20Oyun%20Satis%20Otomasyonu/screenshots/kayit2.png)
 
 ## Oyun Listeleme
 
-![Oyun Listesi](screenshots/oyunListesi.png)
+![Oyun Listesi](C%20Oyun%20Satis%20Otomasyonu/screenshots/oyunListesi.png)
 
 ## Oyun Satın Alma
 
-![Oyun Satın Alma](screenshots/oyunSatinAlma.png)
+![Oyun Satın Alma](C%20Oyun%20Satis%20Otomasyonu/screenshots/oyunSatinAlma.png)
 
 ## Kullanıcı Profili
 
-![Profil](screenshots/profil.png)
+![Profil](C%20Oyun%20Satis%20Otomasyonu/screenshots/profil.png)
 
 ## Yönetici Paneli
 
-![Yönetici Paneli](screenshots/yoneticiPanel.png)
+![Yönetici Paneli](C%20Oyun%20Satis%20Otomasyonu/screenshots/yoneticiPanel.png)
 
 ## Açılış Ekranı
 
-![Açılış](screenshots/Acilis.png)
+![Açılış](C%20Oyun%20Satis%20Otomasyonu/screenshots/Acilis.png)
+
 ---
 
 # 🚀 Kazanımlar
